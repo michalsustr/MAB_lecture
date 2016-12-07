@@ -5,3 +5,5 @@ World that surrounds us is very complex. If we want to discover something new, w
 Lecture given at Physics pizza party: https://www.facebook.com/events/251591895257803/
 
 Main contents: Bandits.ipynb (or exported version, Bandits.html)
+
+Part of series of lectures / workshops on http://lectures.ai
